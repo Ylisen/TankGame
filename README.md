@@ -23,12 +23,12 @@
 
 ## 三、系统设计
 类UML图设计  
-![类UML图](https://github.com/Ylisen/TankGame/tree/master/images/类UML图.png)
+![类UML图](https://github.com/Ylisen/TankGame/tree/master/images/类UML图.PNG)  
 
 ## 四、效果图  
-![效果图1](https://github.com/Ylisen/TankGame/tree/master/images/效果图1.png)
-![效果图2](https://github.com/Ylisen/TankGame/tree/master/images/效果图2.png)
-![效果图3](https://github.com/Ylisen/TankGame/tree/master/images/效果图3.png)
-![效果图4](https://github.com/Ylisen/TankGame/tree/master/images/效果图4.png)
-![效果图5](https://github.com/Ylisen/TankGame/tree/master/images/效果图5.png)
-![效果图6](https://github.com/Ylisen/TankGame/tree/master/images/效果图6.png)
+![效果图1](https://github.com/Ylisen/TankGame/tree/master/images/效果图1.png)  
+![效果图2](https://github.com/Ylisen/TankGame/tree/master/images/效果图2.png)  
+![效果图3](https://github.com/Ylisen/TankGame/tree/master/images/效果图3.png)  
+![效果图4](https://github.com/Ylisen/TankGame/tree/master/images/效果图4.png)  
+![效果图5](https://github.com/Ylisen/TankGame/tree/master/images/效果图5.png)  
+![效果图6](https://github.com/Ylisen/TankGame/tree/master/images/效果图6.png)  
