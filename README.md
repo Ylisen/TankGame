@@ -22,7 +22,7 @@
 具体功能：游戏封装在TankGame类中，对象化为图形化窗口界面，有开始面板与我的面板。玩家通过开始面板选择开始游戏操作，游戏开始时，开始面板移除，进入到我的面板，游戏战场界面与相关操作在我的面板上实现。
 
 ## 三、系统设计
-类UML图设计
+类UML图设计  
 ![类UML图](https://github.com/Ylisen/TankGame/tree/master/images/类UML图.png)
 
 ## 四、效果图  
