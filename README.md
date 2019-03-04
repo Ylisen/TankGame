@@ -26,7 +26,7 @@
 ![类UML图](https://github.com/Ylisen/TankGame/tree/master/images/类UML图.PNG)  
 
 ## 四、效果图  
-![效果图1](https://github.com/Ylisen/TankGame/tree/master/images/效果图1.png)  
+![效果图1](images/效果图1.png)  
 ![效果图2](https://github.com/Ylisen/TankGame/tree/master/images/效果图2.png)  
 ![效果图3](https://github.com/Ylisen/TankGame/tree/master/images/效果图3.png)  
 ![效果图4](https://github.com/Ylisen/TankGame/tree/master/images/效果图4.png)  
